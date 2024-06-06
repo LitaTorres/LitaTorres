@@ -1,9 +1,11 @@
-#Hola
+#¡Hola a Todos!
 
-¡Hola! Mi nombre es Leslie Torres (Lita Torres). Soy docente de Ciencias Naturales, titulada de la Universidad de Concepción, Chile. Actualmente, estoy inmersa en un nuevo camino de aprendizaje como estudiante del Bootcamp "Desarrollo Ruby on Rails para emprendimientos de tipo Startup" y del curso de "Diseño de Experiencia de Usuario UX" ofrecido por Google.
+Mi nombre es Lita Torres y soy de la ciudad de Concepción, Chile. Desde hace un año, estoy inmersa en un proceso de aprendizaje continuo como estudiante de Bootcamps. Actualmente, estoy cursando el Bootcamp de Desarrollo de Aplicaciones Full Stack JavaScript y hace unos meses completé el de Ruby on Rails para Emprendimientos de tipo Startup. Además, tengo un background en pedagogía.
 
-Mi pasión por el aprendizaje me ha llevado a embarcarme en este viaje de transformación hacia el mundo del dDesarrollo Web. Aunque mi recorrido es relativamente nuevo, estoy decidida a aprovechar todas las oportunidades para convertirme en una profesional competente y creativa. Mi objetivo es brindar a los usuarios experiencias excepcionales a través de proyectos bien diseñados y desarrollados.
+Aunque mi recorrido en el mundo del desarrollo es relativamente nuevo, estoy decidida a aprovechar todas las oportunidades para convertirme en una profesional completa. Mi objetivo es brindar a los usuarios experiencias excepcionales a través de proyectos bien diseñados y desarrollados.
 
-Valoro el trabajo en equipo, y me considero una persona responsable, empática y alegre. Estoy emocionada por compartir mis conocimientos y también aprender de los demás. Creo que cada día es una oportunidad para crecer y mejorar, y estoy comprometida a hacerlo.
+Me considero una persona responsable y alegre, que valora el trabajo en equipo y aprecia cada nueva instancia de aprendizaje. Estoy ansiosa por aplicar mis conocimientos y habilidades en proyectos reales y continuar creciendo en este campo.
 
-Si deseas ponerte en contacto conmigo, te invito a explorar mi portafolio, donde encontrarás diversas formas de conectarte. ¡Te deseo lo mejor en tus proyectos y espero que tengamos la oportunidad de trabajar juntos en el futuro!
+Pronto les compartiré mi portafolio, pero por ahora, pueden ponerse en contacto conmigo a través de mi LinkedIn: https://www.linkedin.com/in/leslie-torres-c/ 
+
+¡Te deseo lo mejor en tus proyectos y espero que tengamos la oportunidad de trabajar juntos en el futuro!
