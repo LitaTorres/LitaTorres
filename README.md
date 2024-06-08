@@ -1,6 +1,6 @@
 #¡Hola a Todos!
 
-Mi nombre es Lita Torres y soy de la ciudad de Concepción, Chile. Desde hace un año, estoy inmersa en un proceso de aprendizaje continuo como estudiante de Bootcamps. Actualmente, estoy cursando el Bootcamp de Desarrollo de Aplicaciones Full Stack JavaScript y hace unos meses completé el de Ruby on Rails para Emprendimientos de tipo Startup. Además, tengo un background en pedagogía.
+Mi nombre es Leslie Torres (Lita Torres) y soy de la ciudad de Concepción, Chile. Desde hace un año, estoy inmersa en un proceso de aprendizaje continuo como estudiante de Bootcamps. Actualmente, estoy cursando el Bootcamp de Desarrollo de Aplicaciones Full Stack JavaScript y hace unos meses completé el de Ruby on Rails para Emprendimientos de tipo Startup. Además, tengo un background en pedagogía.
 
 Aunque mi recorrido en el mundo del desarrollo es relativamente nuevo, estoy decidida a aprovechar todas las oportunidades para convertirme en una profesional completa. Mi objetivo es brindar a los usuarios experiencias excepcionales a través de proyectos bien diseñados y desarrollados.
 
